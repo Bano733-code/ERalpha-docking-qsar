@@ -1,0 +1,12 @@
+{
+  "n_docked": 100,
+  "lipinski_removed": 140,
+  "spearman_docking_vs_pIC50": 0.4808232946810522,
+  "p_docking": 4.1201731693845635e-07,
+  "spearman_QSAR_vs_pIC50": 0.6120907179130449,
+  "p_QSAR": 1.3221831874758386e-11,
+  "spearman_docking_vs_QSAR": 0.40029043079287,
+  "ROC_AUC_docking_actives_vs_inactives": 0.7597916666666666,
+  "ROC_AUC_QSAR_actives_vs_inactives": 0.8754166666666666,
+  "n_active": 40
+}

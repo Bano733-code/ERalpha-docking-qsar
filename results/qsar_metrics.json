@@ -1,0 +1,16 @@
+{
+  "n_train": 2712,
+  "n_test": 678,
+  "test_R2": 0.5364077288117484,
+  "test_RMSE": 1.0680774397111659,
+  "cv5_R2_mean": 0.549067388646603,
+  "cv5_R2_std": 0.07735695182422,
+  "cv5_RMSE_mean": 0.9097986766372952,
+  "cv5_RMSE_std": 0.07333405214775716,
+  "y_randomization_R2_mean": -0.38027551830916256,
+  "y_randomization_R2_max": -0.32451904295878364,
+  "AD_threshold_tanimoto": 0.4,
+  "fraction_test_in_AD": 0.6209439528023599,
+  "MAE_in_AD": 0.6593666309159241,
+  "MAE_outside_AD": 1.0408757426709632
+}

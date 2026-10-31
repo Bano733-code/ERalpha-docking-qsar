@@ -1,0 +1,9 @@
+{
+  "raw_rows": 7699,
+  "after_filters": 5945,
+  "unique_compounds": 3390,
+  "n_active": 2450,
+  "n_inactive": 940,
+  "pIC50_min": 2.4559319556497243,
+  "pIC50_max": 11.0
+}
