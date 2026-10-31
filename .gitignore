@@ -1,0 +1,9 @@
+# AutoDock Vina binary is downloaded by scripts/00_setup.sh (do not commit)
+bin/
+# large intermediate files
+results/poses_all/
+data/processed/*.pdbqt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
