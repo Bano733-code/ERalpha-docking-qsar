@@ -1,0 +1,16 @@
+MDAnalysis
+biopython
+chembl_webresource_client
+matplotlib
+meeko
+numpy
+openbabel-wheel
+openmm
+pandas
+pdbfixer
+prolif
+py3Dmol
+rdkit
+scikit-learn
+scipy
+seaborn
