@@ -26,7 +26,7 @@ breast-cancer drug target. It combines **molecular docking** (structure-based) w
 
 **Local (Linux / macOS, Python ≥ 3.10):**
 ```bash
-git clone https://github.com/<your-username>/ERalpha-docking-qsar.git
+git clone https://github.com/<Bano733-code>/ERalpha-docking-qsar.git
 cd ERalpha-docking-qsar
 bash scripts/00_setup.sh      # packages + Vina + 3ERT (3ERT.pdb or 3ERT.cif in data/raw/ both work)
 bash scripts/run_all.sh       # runs steps 1-7 (ChEMBL via API)
